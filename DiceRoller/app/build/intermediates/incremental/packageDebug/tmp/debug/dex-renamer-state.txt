@@ -1,0 +1,4 @@
+#Sun Feb 22 08:58:42 PKT 2026
+base.0=E\:\\6th Semester\\App Development\\GithubApps\\DiceRoller\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
