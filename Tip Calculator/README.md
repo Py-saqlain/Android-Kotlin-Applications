@@ -1,6 +1,6 @@
 Tip Calculator - Solution Code
 =================================
-
+App file contains the main code required for running the app
 Solution code for the Android Basics in Kotlin: Tip Calculator app.
 
 
